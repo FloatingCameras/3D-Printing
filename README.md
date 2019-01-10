@@ -1,7 +1,7 @@
 # 3D-Printing
 3D Printing
 
-[[_TOC_]]
+[[__TOC__]]
 
 # 3D-Printing Projects
 This is my collection of code created to support my reesearch efforts.
